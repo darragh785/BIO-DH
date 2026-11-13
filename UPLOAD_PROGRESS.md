@@ -4,9 +4,10 @@ Source: Darragh_Hughes_Website_GitHub(1).zip (37 files).
 Target: darragh785/BIO-DH, main branch.
 
 - Stage 1 COMPLETE: index.html, style.css, script.js, hero.js and .nojekyll.
-- Stage 2 COMPLETE: all 28 non-video assets (images, favicon and CV PDF), uploaded unchanged from the ZIP.
-- Stage 3 PENDING: upload assets/petwatch-schedule.mp4, assets/skyspot-detection.mp4 and assets/skyspot-flight.mp4; replace original repository README with the ZIP README; verify all 37 source files; configure GitHub Pages.
+- Stage 2 COMPLETE: 28 non-video assets. Previous session verified 27; this session replaced truncated assets/somex-automation.jpg using 12,000-byte reads. Original size 833309 bytes; verified Git blob SHA 92148f71069bd8881458c2ee655d579fffef0ec7.
+- Stage 3 NEXT: upload only assets/petwatch-schedule.mp4 (96669 bytes; Git blob SHA 6e37f030d7ff2daecf971752ddc8706fde790692). Stop after verification to keep chats short.
+- Stage 4: upload only assets/skyspot-detection.mp4 (8582905 bytes; Git blob SHA 8d454199db7b9f897c7f5a70688e15d5505937de).
+- Stage 5: upload only assets/skyspot-flight.mp4 (3931337 bytes; Git blob SHA be4d0f194ad4a05dde0072e6f45f95790ed8237a).
+- Stage 6: replace README with ZIP README, verify all 37 source files, configure and verify GitHub Pages.
 
-No redesign requested; preserve ZIP contents. GitHub Pages has not yet been configured by this upload process.
-
-To resume in a new chat: read this file and continue stage 3 using the attached source ZIP.
+Read binary bytes in small chunks; assemble content programmatically without printing full binary/base64 to chat. Check returned Git blob SHA against source before committing. No redesign requested; preserve ZIP contents. GitHub Pages has not yet been configured by this upload process.
